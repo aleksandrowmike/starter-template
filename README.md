@@ -1,3 +1,5 @@
+## Starter Template v 0.1
+
 ## Особенности
 
 - именование классов по [БЭМ](https://ru.bem.info/)
