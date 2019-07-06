@@ -1,10 +1,10 @@
 {
-    "name": "gulp-scss-starter",
+    "name": "starter-template",
     "description": "Frontend development with pleasure",
-    "author": "Andrey Gorokhov",
+    "author": "Andrey Gorokhov & Mikhail Gorbachev",
     "repository": {
         "type": "git",
-        "url": "https://github.com/andreyalexeich/gulp-scss-starter.git"
+        "url": "git@github.com:aleksandrowmike/starter-template.git"
     },
     "license": "MIT",
     "scripts": {
